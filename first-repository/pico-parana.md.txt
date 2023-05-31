@@ -1,0 +1,8 @@
+#O pico Paraná é a montanha mais alta da Região Sul do Brasil. É uma formação rochosa de granito e gnaisse,
+entre o município de Antonina e Campina Grande do Sul, no conjunto de serra chamado Ibitiraquire,
+que na língua tupi significa "serra Verde".
+Ele foi descoberto pelo pesquisador alemão Reinhard Maack através de suas incursões na serra do Mar no estado do Paraná,
+vindo daí seu nome de batismo.
+
+##altitude: 1877,39m nivel mar
+##localização: Paraná, Antonina
